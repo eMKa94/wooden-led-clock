@@ -1,0 +1,9 @@
+emka_led_clock.c:37:6:emka_clock_system_init	40	static
+emka_led_clock.c:46:6:init_led_colors	4	static
+emka_led_clock.c:102:6:update_display_number	24	static
+emka_led_clock.c:124:6:update_display_time	24	static
+emka_led_clock.c:143:6:set_led_buffer	24	static
+emka_led_clock.c:190:6:color_switch_routine	16	static
+emka_led_clock.c:213:6:emka_clock_routine	8	static
+emka_led_clock.c:234:6:switch_color	16	static
+emka_led_clock.c:240:6:set_lum	16	static

@@ -1,0 +1,2 @@
+emka_fotodetector.c:11:21:emka_fotodetector_init	24	static
+emka_fotodetector.c:20:6:fd_sensor_start	16	static
